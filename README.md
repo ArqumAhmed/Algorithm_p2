@@ -3,6 +3,7 @@
 Group members: Arqum Ahmed and Yesh Patel
 
 Objective: Greedy versus Exhaustive Algorithm
+
 Implement and compare two algorithms that solve the same problem. For this
 problem, you will design two separate algorithms, describe the algorithms using clear pseudocode, analyze them mathematically, implement your algorithms in C++, measure their performance in running time, compare your experimental results with the efficiency class of your algorithms, and draw conclusions. The first is a greedy algorithm with a fast (i.e. polynomial) running time, while the second is an exhaustive search algorithm with a slow (i.e. exponential) running time.
 
